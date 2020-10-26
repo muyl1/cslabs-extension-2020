@@ -1,7 +1,9 @@
-# CSLabs-Extension-Documents
+# CSLabs-extension-documents
 
-Placeholder file to describe the Documents Folder.
+Placeholder file to describe the documents folder.
 
-Team Leader - 
-Team Member - 
-Team Member – 
+
+| Team Leader |Yiliang Lu |
+| --- | --- |
+| Team Member | Junet Bello |
+| Team Member | Cooper Martin|
