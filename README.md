@@ -1,4 +1,4 @@
-# cslabs-xxtension-documents
+# cslabs-extension-documents
 
 Placeholder file to describe the overall cslabs extension project.
 
