@@ -1,0 +1,49 @@
+@import "../../theme";
+
+.navbar {
+    background-color: maroon;
+    color: white !important;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-brand {
+    color: white;
+
+    &:hover {
+        font-weight: bolder;
+    }
+}
+
+.nav-item a {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    span {
+        display: block;
+        margin: auto;
+        font-size: 13px;
+    }
+
+    &:hover {
+        text-decoration: none;
+        color: darken(white, 20%) !important;
+    }
+}
+
+.logo {
+    width: 55px;
+}
+
+.nav-link {
+    color: white !important;
+
+    &:hover {
+        color: yellow !important;
+    }
+}
+
+svg { width: 200px; }
+

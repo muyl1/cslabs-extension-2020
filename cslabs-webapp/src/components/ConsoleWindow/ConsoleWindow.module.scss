@@ -1,0 +1,23 @@
+
+
+.wmks-console-window-container {
+    position: relative;
+    margin-bottom: 20px;
+    background: black;
+    border: groove;
+}
+
+.controls {
+    display: none;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+
+    > * {
+        margin: 10px;
+    }
+}
+
+.power-state {
+    margin-right: 20px;
+}

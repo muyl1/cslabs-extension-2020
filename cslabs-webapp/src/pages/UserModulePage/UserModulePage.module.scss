@@ -1,0 +1,19 @@
+.lab-status-indicator {
+    background-color: white;
+    border-radius: 0 !important;
+}
+
+.lab-status-indicator.in-progress {
+    background-color: #f1c232;
+    color: black;
+}
+
+.lab-status-indicator.completed {
+    background-color: green;
+    color: white;
+}
+
+.list-group-item {
+    border-radius: 0 !important;
+    color: black;
+}
