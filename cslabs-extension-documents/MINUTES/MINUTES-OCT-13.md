@@ -19,5 +19,9 @@
 
 |Action items|Owner(s)|Deadline|Status|
 | --- | --- | --- | --- |
-| Setup individual meeting with Zac to obtain domain credential | Zac Clifton | 20201025 | |
-| Complete setup build environment(s) | | |
+| Setup meeting with Zac to obtain domain credential | Yiliang Lu | 20201103 | Pending |
+| Setup meeting with Zac to obtain domain credential | Junet Bello | 20201103 | Pending |
+| Setup meeting with Zac to obtain domain credential | Cooper Martin | 20201103 | Pending |
+| Complete setupping build/dev environment(s) | Yiliang Lu |20201103 | Pending |
+| Complete setupping build/dev environment(s) | Junet Bello |20201103 | Pending |
+| Complete setupping build/dev environment(s) | Cooper Martin |20201103 | Pending |
