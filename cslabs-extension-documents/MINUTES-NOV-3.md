@@ -21,6 +21,6 @@
 |Action items|Owner(s)|Deadline|Status|
 | --- | --- | --- | --- |
 | Cooper to setup individual meeting with Zac to obtain domain credential | Cooper Martin | 20201103 |Complete |
-| Complete task |Yiliang Lu |20201117 |Pending |
+| Complete task-research VNC cope-and-paste in Proxmox VE |Yiliang Lu |20201117 |Complete |
 | Complete task |Junet Bello |20201117 |Pending |
 | Complete task |Cooper Martin |20201117 |Pending |
