@@ -3,5 +3,5 @@
 |  Name | Hours Spent on Project  |   |
 | Yiliang Lu  |  5 |   |
 | Junet Bello  |   |   |
-| Cooper Martin  |   |   |
+| Cooper Martin  | 4 |   |
 | Total  |   |   |
