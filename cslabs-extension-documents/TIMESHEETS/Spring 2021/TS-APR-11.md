@@ -1,0 +1,7 @@
+|Team Comsic Alpha | Week of   |20210411   |
+| ------------ | ------------ | ------------ |
+|  Name | Hours Spent on Project  |   |
+| Yiliang Lu  |  4 |   |
+| Junet Bello  | 4 |   |
+| Cooper Martin  | 0 |   |
+| Total  | 8  |   |
